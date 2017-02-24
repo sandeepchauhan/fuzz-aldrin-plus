@@ -1,4 +1,4 @@
-## What is fuzzaldrin-plus?
+## What is fuzzaldrin-plus??
 
 - A fuzzy search / highlight that specialize for programmer text editor. It tries to provide intuitive result by recognizing patterns that people use while searching.
 
